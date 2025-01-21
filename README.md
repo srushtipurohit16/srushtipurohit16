@@ -1,4 +1,4 @@
-👋 Hi, I’m @srushtipurohit16
+👋 Hi, I’m @srushtipurohit16.
 👀 I’m interested in Developing Skills related to Computer Applications.
 🌱 I’m currently learning and have experience in programming languages like C/C++,PHP,DSA,R Programming,Java.
 💞 I’m looking to collaborate on projects related to Business Technologies, Software Development,Web Application.
